@@ -73,3 +73,4 @@ Stack trace:
 [04-Apr-2025 16:25:44 UTC] PHP Fatal error:  Out of memory (allocated 29360128) (tried to allocate 2097152 bytes) in /workspaces/UX308Assignment-2/.wordpress/wp-content/plugins/ecommerce-product-catalog/modules/price/price-meta.php on line 31
 [04-Apr-2025 16:26:57 UTC] PHP Fatal error:  Out of memory (allocated 29360128) (tried to allocate 2097152 bytes) in /workspaces/UX308Assignment-2/.wordpress/wp-content/plugins/ecommerce-product-catalog/modules/price/price-settings.php on line 21
 [04-Apr-2025 16:29:04 UTC] PHP Fatal error:  Out of memory (allocated 29360128) (tried to allocate 2097152 bytes) in /workspaces/UX308Assignment-2/.wordpress/wp-content/plugins/ecommerce-product-catalog/modules/price/price-settings.php on line 21
+[04-Apr-2025 19:43:09 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/UX308Assignments/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
